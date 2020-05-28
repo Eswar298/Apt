@@ -1,0 +1,17 @@
+#Calendars
+-->Months
+J F M A M J JL A S O N D
+0 3 3 6 1 4 6  2 5 0 3 5
+-->Years
+1600  1700  1800  1900 2000
+6      4     2     0    6
+-->Find day
+Last two digits of year
+Divide it by 4
+Month number
+Year number
+Date
+*Remainder gives which day
+-->If it is a  Leap Year before march shortcut will give 1 more than actual number
+
+-->
