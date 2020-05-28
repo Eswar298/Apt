@@ -1,0 +1,126 @@
+#CALendar sols
+1.1947 aug 15
+last two digits -->47
+div by 4 -->11
+year number  --> 0
+month number --> 2
+date  -->  15
+total : 75 (5  Remainder-->Friday)
+
+2.today = Monday 61/7  
+remainder = 5 Monday + 5 =Saturday 
+
+3.Count the number of odd days from the year 2007 onwards to get the sum equal to 0 odd day.
+ Year    : 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 Odd day : 
+            1    2    1    1    1    2    1    1    1    2    1     
+Sum = 14 odd days Remainder->0 
+  Calendar for the year 2018 will be the same as for the year 2007. 
+  
+4.28 th may 2006 
+Last two digits of the year :  06 
+Divide this by 4                 :    1 
+Take the date                    :   28 
+Take number of month      :  1 
+Take number of year    :   6 
+Total =42 
+Divide by 7 rem=0 so the day is Sunday 
+
+5. The year 2006 is an ordinary year. So, it has 1 odd day. 
+So, the day on 8th Dec, 2007 will be 1 day beyond the day on 8th Dec, 2006. 
+But, 8th Dec, 2007 is Saturday. 
+ 8th Dec, 2006 is Friday. 
+ 
+6. The year 2008 is a leap year. So, it has 2 odd days. 
+1st day of the year 2008 is Tuesday (Given) 
+So, 1st day of the year 2009 is 2 days beyond Tuesday.
+ Hence, it will be Thursday. 
+ 
+7. On 31st December, 2005 it was Saturday. 
+Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.
+  On 31st December 2009, it was Thursday. Thus, on 1st Jan, 2010 it is Friday 
+ 
+8. The year 2004 is a leap year. It has 2 odd days. 
+ The day on 8th Feb, 2004 is 2 days before the day on 8th Feb, 2005. Hence, this day is Sunday. 
+ 
+9. 100 years contain 5 odd days. 
+ Last day of 1st century is Friday. 200 years contain (5 x 2)  3 odd days.  Last day of 2nd century is Wednesday. 300 years contain (5 x 3) = 15  1 odd day.  Last day of 3rd century is Monday. 400 years contain 0 odd day.  Last day of 4th century is Sunday. The cycle is repeated 
+ 
+10. x weeks x days = (7x + x) days = 8x days. 
+ 
+11. The year 2008 is a leap year. So, it has 2 odd days. 
+1st day of the year 2008 is Tuesday (Given) So, 1st day of the year 2009 is 2 days beyond Tuesday. Hence, it will be Thursday. 
+ 
+12. The year 2007 is an ordinary year. So, it has 1 odd day. 
+1st day of the year 2007 was Monday. 1st day of the year 2008 will be 1 day beyond Monday. 
+Hence, it will be Tuesday. 
+
+13.2006 → 1 odd day    
+ 2007 →1 odd day 
+ 
+2008 → is a  leap year so 2 odd days 
+ 
+2009 → 1 odd day So total 5 days    
+      Sunday + 5 = friday 
+ 
+14. Last two digits = 16 
+ 
+Last two digits divide by 4 = 19 
+ 
+July number = 6 
+ 
+1700 – 1800 = 4 
+ 
+Date = 16 
+ 
+Total = 61 /7  rem =5 
+ 
+15. Last two digits = 06 
+ 
+Last two digits divide by 4 = 1 
+ 
+May number = 1 
+ 
+2000 - 2100 = 6 
+ 
+Date = 28 
+ 
+Total = 42 /7  rem =0,sunday 
+ 
+16. Last two digits = 10 
+ 
+Last two digits divide by 4 = 2 
+ 
+Aug number = 2 
+ 
+2000 – 2100  = 6 
+ 
+Date = 15 
+ 
+Total = 35 /7  rem =0,Sunday 
+ 
+17. Last two digits = 98 
+
+ Last two digits divide by 4 = 24 
+ 
+june number = 4 
+ 
+1900  = 0 
+ 
+Date = 17 
+ 
+Total = 143 /7  rem =3,Wednesday 
+ 
+18. Last two digits = 01 
+ 
+Last two digits divide by 4 = 0 
+ 
+April number = 6 
+ 
+2000 – 2100  = 6 
+ 
+Date = 4 
+ 
+Total = 17 /7  rem =3, wed 
+ 
+4,11,18,25 
+ 
